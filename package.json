@@ -9,5 +9,7 @@
     "gh-pages": "^3.2.3"
   },
   "homepage": "https://rejestrator.github.io/gh-pages-test",
-  "scripts": "gh-pages -d dist"
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+    }
 }
